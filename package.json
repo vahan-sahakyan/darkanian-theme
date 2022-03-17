@@ -1,0 +1,21 @@
+{
+    "name": "darkanian-theme",
+    "displayName": "Darkanian Theme",
+    "description": "You finally found it!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darkanian Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darkanian Theme-color-theme.json"
+            }
+        ]
+    }
+}

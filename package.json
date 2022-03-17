@@ -1,21 +1,56 @@
 {
-    "name": "darkanian-theme",
-    "displayName": "Darkanian Theme",
-    "description": "You finally found it!",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.65.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Darkanian Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Darkanian Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "darkanian-theme",
+  "displayName": "Darkanian Theme",
+  "description": "You finally found it!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darkanian (Darcula)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (Darcula).json"
+      },
+      {
+        "label": "Darkanian (Dimmed)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (Dimmed).json"
+      },
+      {
+        "label": "Darkanian (Gruvbox Hard)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (Gruvbox Hard).json"
+      },
+      {
+        "label": "Darkanian (Gruvbox Medium)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (Gruvbox Medium).json"
+      },
+      {
+        "label": "Darkanian (Gruvbox Soft)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (Gruvbox Soft).json"
+      },
+      {
+        "label": "Darkanian (One Monokai)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (One Monokai).json"
+      },
+      {
+        "label": "Darkanian (SoftDark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (SoftDark).json"
+      },
+      {
+        "label": "Darkanian Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian Default.json"
+      }
+    ]
+  }
 }

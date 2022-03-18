@@ -22,6 +22,11 @@
         "path": "./themes/Darkanian (Dimmed).json"
       },
       {
+        "label": "Darkanian (Dimmed Black)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (Dimmed Black).json"
+      },
+      {
         "label": "Darkanian (Gruvbox Hard)",
         "uiTheme": "vs-dark",
         "path": "./themes/Darkanian (Gruvbox Hard).json"

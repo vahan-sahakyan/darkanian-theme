@@ -1,6 +1,6 @@
 # Darkanian Theme Pack
-## VS-Code dark themes for those who are used to Token-Colors (Syntax Highlight) from Monokai
-## but also feel like ving some new versions of the editor background and overall GUI Colors.
+### Dark Themes for Visual Studio Code 
+##### For those who are used to Token-Colors (Syntax Highlight) from Monokai but also feel like having some new versions of the editor background and overall GUI Colors.
 
 
 * Darkanian (Darcula)

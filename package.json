@@ -12,19 +12,29 @@
   "contributes": {
     "themes": [
       {
+        "label": "Darkanian (Black Lite)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (Black Lite).json"
+      },
+      {
+        "label": "Darkanian (Black)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (Black).json"
+      },
+      {
         "label": "Darkanian (Darcula)",
         "uiTheme": "vs-dark",
         "path": "./themes/Darkanian (Darcula).json"
       },
       {
+        "label": "Darkanian (Dimmed Lite)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (Dimmed Lite).json"
+      },
+      {
         "label": "Darkanian (Dimmed)",
         "uiTheme": "vs-dark",
         "path": "./themes/Darkanian (Dimmed).json"
-      },
-      {
-        "label": "Darkanian (Dimmed Black)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Darkanian (Dimmed Black).json"
       },
       {
         "label": "Darkanian (Gruvbox Hard)",
@@ -45,6 +55,11 @@
         "label": "Darkanian (One Monokai)",
         "uiTheme": "vs-dark",
         "path": "./themes/Darkanian (One Monokai).json"
+      },
+      {
+        "label": "Darkanian (SoftDark Lite)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (SoftDark Lite).json"
       },
       {
         "label": "Darkanian (SoftDark)",

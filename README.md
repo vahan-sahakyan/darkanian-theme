@@ -17,6 +17,6 @@
 - Darkanian (SoftDark Lite)
 - Darkanian (SoftDark)
 
-* // "Lite" refers to Syntax Brightness Intensity
+###### - "Lite" refers to Syntax Brightness Intensity
 
-**Enjoy!**
+###### **Enjoy!**

@@ -22,6 +22,11 @@
         "path": "./themes/Darkanian (Black).json"
       },
       {
+        "label": "Darkanian (Darcula New)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (Darcula New).json"
+      },
+      {
         "label": "Darkanian (Darcula)",
         "uiTheme": "vs-dark",
         "path": "./themes/Darkanian (Darcula).json"

@@ -47,6 +47,11 @@
         "path": "./themes/Darkanian (GitHub Dark).json"
       },
       {
+        "label": "Darkanian (GitHub Dimmed)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (GitHub Dimmed).json"
+      },
+      {
         "label": "Darkanian (GitHub Soft)",
         "uiTheme": "vs-dark",
         "path": "./themes/Darkanian (GitHub Soft).json"

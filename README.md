@@ -10,12 +10,16 @@
 - Darkanian (Darcula)
 - Darkanian (Dimmed Lite)
 - Darkanian (Dimmed)
+- Darkanian (GitHub Dark)
+- Darkanian (GitHub Dimmed)
+- Darkanian (GitHub Soft)
 - Darkanian (Gruvbox Hard)
 - Darkanian (Gruvbox Medium)
 - Darkanian (Gruvbox Soft)
 - Darkanian (One Monokai)
 - Darkanian (SoftDark Lite)
 - Darkanian (SoftDark)
+- Darkanian Default
 
 ###### - "Lite" refers to Syntax Brightness Intensity
 

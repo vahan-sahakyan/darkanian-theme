@@ -7,11 +7,27 @@
     "type": "git",
     "url": "https://github.com/vahan-sahakyan/darkanian-theme"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "vahan sahakyan",
+    "vahansahakyan",
+    "monokai",
+    "gruvbox",
+    "black",
+    "darcula",
+    "dimmed",
+    "github",
+    "one",
+    "softdark"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.65.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
@@ -95,5 +111,8 @@
         "path": "./themes/Darkanian Default.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.10.0"
   }
 }

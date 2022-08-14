@@ -1,12 +1,13 @@
 {
   "name": "darkanian-theme",
   "displayName": "Darkanian Theme",
-  "description": "You finally found it!",
+  "description": "[UI-Theme-Pack] w/ Monokai-Syntax",
   "publisher": "VahanSahakyan",
   "repository": {
     "type": "git",
     "url": "https://github.com/vahan-sahakyan/darkanian-theme"
   },
+  "icon": "./icon.png",
   "keywords": [
     "theme",
     "dark theme",

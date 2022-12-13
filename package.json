@@ -20,7 +20,8 @@
     "dimmed",
     "github",
     "one",
-    "softdark"
+    "softdark",
+    "material"
   ],
   "version": "0.0.2",
   "engines": {
@@ -90,6 +91,11 @@
         "label": "Darkanian (Gruvbox Soft)",
         "uiTheme": "vs-dark",
         "path": "./themes/Darkanian (Gruvbox Soft).json"
+      },
+      {
+        "label": "Darkanian (MT Darker HC)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkanian (MT Darker HC).json"
       },
       {
         "label": "Darkanian (One Monokai)",

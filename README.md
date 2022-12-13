@@ -16,6 +16,7 @@
 - Darkanian (Gruvbox Hard)
 - Darkanian (Gruvbox Medium)
 - Darkanian (Gruvbox Soft)
+- Darkanian (MT Darker HC)
 - Darkanian (One Monokai)
 - Darkanian (SoftDark Lite)
 - Darkanian (SoftDark)

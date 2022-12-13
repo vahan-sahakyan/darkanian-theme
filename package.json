@@ -103,11 +103,6 @@
         "path": "./themes/Darkanian (MT Default HC).json"
       },
       {
-        "label": "Darkanian (MT Lighter HC)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Darkanian (MT Lighter HC).json"
-      },
-      {
         "label": "Darkanian (MT Ocean HC)",
         "uiTheme": "vs-dark",
         "path": "./themes/Darkanian (MT Ocean HC).json"

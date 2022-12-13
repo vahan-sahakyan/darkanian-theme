@@ -18,7 +18,6 @@
 - Darkanian (Gruvbox Soft)
 - Darkanian (MT Darker HC)
 - Darkanian (MT Default HC)
-- Darkanian (MT Lighter HC)
 - Darkanian (MT Ocean HC)
 - Darkanian (MT Palenight HC)
 - Darkanian (One Monokai)

@@ -1,6 +1,7 @@
 {
   "name": "Darkanian (SoftDark)",
   "type": "dark",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": [

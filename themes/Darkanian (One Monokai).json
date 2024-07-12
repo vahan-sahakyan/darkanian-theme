@@ -1,6 +1,7 @@
 {
   "name": "Darkanian (One Monokai)",
   "type": "dark",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": [

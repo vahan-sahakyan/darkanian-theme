@@ -1,6 +1,7 @@
 {
   "name": "Darkanian (Dimmed Black)",
   "type": "dark",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": [

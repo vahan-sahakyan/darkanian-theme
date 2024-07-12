@@ -1,6 +1,7 @@
 {
   "name": "Darkanian (MT Darker HC)",
   "type": "dark",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": [

@@ -1,6 +1,7 @@
 {
   "name": "Darkanian (MT Palenight HC)",
   "type": "dark",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": [

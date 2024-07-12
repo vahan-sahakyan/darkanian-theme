@@ -1,6 +1,7 @@
 {
   "name": "Darkanian Default",
   "type": "dark",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": [

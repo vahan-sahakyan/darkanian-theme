@@ -1,6 +1,7 @@
 {
   "name": "Darkanian (Darcula New)",
   "type": "dark",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": [

@@ -1,6 +1,7 @@
 {
   "name": "Darkanian (Gruvbox Hard)",
   "type": "dark",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": [

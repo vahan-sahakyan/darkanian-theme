@@ -1,5 +1,6 @@
 {
   "name": "darkanian-theme",
+  "version": "0.0.6",
   "displayName": "Darkanian Theme",
   "description": "[UI-Theme-Pack] w/ Monokai-Syntax",
   "publisher": "VahanSahakyan",
@@ -23,7 +24,7 @@
     "softdark",
     "material"
   ],
-  "version": "0.0.4",
+  
   "engines": {
     "vscode": "^1.65.0"
   },

@@ -4,6 +4,8 @@
 
 ##### For those who are used to Token-Colors (Syntax Highlight) from Monokai but also feel like having some new versions of the editor background and overall GUI Colors.
 
+- Lightanian (Tokyo Night)
+
 - Darkanian (Black Lite)
 - Darkanian (Black)
 - Darkanian (Darcula New)

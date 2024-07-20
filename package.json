@@ -1,6 +1,6 @@
 {
   "name": "darkanian-theme",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "displayName": "Darkanian Theme",
   "description": "[UI-Theme-Pack] w/ Monokai-Syntax",
   "publisher": "VahanSahakyan",
@@ -24,7 +24,6 @@
     "softdark",
     "material"
   ],
-  
   "engines": {
     "vscode": "^1.65.0"
   },
@@ -33,6 +32,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Lightanian (Tokyo Night)",
+        "uiTheme": "vs",
+        "path": "./themes/Lightanian (Tokyo Night).json"
+      },
       {
         "label": "Darkanian (Black Lite)",
         "uiTheme": "vs-dark",

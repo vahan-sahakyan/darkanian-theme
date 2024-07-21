@@ -795,7 +795,7 @@
     },
     {
       "scope": "entity.name.operator.custom-literal.string",
-      "settings": { "name": "custom literal string", "foreground": "#998514" }
+      "settings": { "name": "custom literal string", "foreground": "#998514", "fontStyle": "normal" }
     },
     {
       "scope": "entity.name.operator.custom-literal.number",
@@ -1220,6 +1220,7 @@
       "settings": {
         "name": "region yellow color",
         "foreground": "#998514",
+        "fontStyle": "normal",
         "background": "#99851459"
       }
     },
@@ -1434,7 +1435,7 @@
     },
     {
       "scope": "string",
-      "settings": { "name": "String", "foreground": "#998514" }
+      "settings": { "name": "String", "foreground": "#998514", "fontStyle": "normal" }
     },
     {
       "scope": "string.unquoted.label",
